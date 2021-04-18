@@ -1,0 +1,4 @@
+del 1 al 9 colores
+z: Linea de 2px
+x: Goma de borrar
+del 1 al 9 + c :Linea de 20px
